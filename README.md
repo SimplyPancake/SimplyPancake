@@ -7,4 +7,4 @@
 - 📫 How to reach me: [Daniel Jonker](mailto:ddavidjonker@outlook.com?subject=[GitHub])
 - 😄 Pronouns: he/him
 -->
-[![Simply's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimplyPancake&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Simply's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimplyPancake&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
